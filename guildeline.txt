@@ -1,0 +1,18 @@
+yarn create react-app periclesui
+yarn add react-router-dom react-alert
+yarn add react-redux
+yarn add redux
+yarn add react-redux-i18n
+yarn add idb
+yarn add axios
+yarn add oidc-client
+yarn add redux-thunk
+yarn add redux-devtools-extension
+yarn add node-sass
+yarn add golden-layout
+yarn add react-joyride
+yarn add react-click-outside
+yarn add react-custom-scrollbars
+yarn add html2canvas
+yarn add export-to-csv
+yarn add react-malarquee
