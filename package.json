@@ -8,7 +8,7 @@
     "golden-layout": "^1.5.9",
     "html2canvas": "^1.0.0-rc.5",
     "idb": "^4.0.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "oidc-client": "^1.9.1",
     "react": "^16.10.2",
     "react-alert": "^6.0.0",
